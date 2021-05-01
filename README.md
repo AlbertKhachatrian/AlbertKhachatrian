@@ -1,0 +1,4 @@
+- 👋 Hi, I’m Albert
+- 👀 I’m interested in Android and Software Development
+- 🌱 I’m currently learning algorithms, data structures and flutter, dart
+- 📫 You can reach me by my e-mail in my profile page
