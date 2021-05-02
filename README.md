@@ -1,5 +1,5 @@
 ### Hi, I’m Albert - @oAura 👋
-## I am aspiring Android and Software Developer
+## Novice Android and Software Developer
 - 😍 I like to code
 - 🌟 My favorite languages: Java, Dart.
 - 🧠 I am currently learning flutter and algorithms
