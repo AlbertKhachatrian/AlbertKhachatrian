@@ -2,7 +2,7 @@
 ## Novice Android and Software Developer
 - 😍 I like to code
 - 🌟 My favorite languages: Java, Dart.
-- 🧠 I am currently learning flutter and algorithms
+- 🧠 I am currently learning flutter, data structures and algorithms
 - 🤝 Ready to collaborate 
 - 👀 Looking for a job or internship
 
