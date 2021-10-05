@@ -1,10 +1,9 @@
 ### Hi, I’m Albert - @oAura 👋
 ## Novice Android and Software Developer
 - 😍 I like to code
-- 🌟 My favorite languages: Java, Dart.
-- 🧠 I am currently learning flutter, data structures and algorithms
+- 🌟 My favorite languages: Kotlin, Java.
+- 🧠 I am currently learning unity, data structures and algorithms
 - 🤝 Ready to collaborate 
-- 👀 Looking for a job or internship
 
 ### Skills
 
@@ -15,4 +14,3 @@
 <img align="left" width="30px" alt="Kotlin" src="http://tapfreaks.net/blog/wp-content/uploads/2017/05/Kotlin_logo-300x300.png"/>
 <img align="left" width="30px" alt="SQL" src="https://nelson619.files.wordpress.com/2015/09/sql-logo.png"/>
 <img align="left" width="30px" alt="JSON" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/JSON_vector_logo.svg/1200px-JSON_vector_logo.svg.png"/>
-<img align="left" width="30px" alt="Dart" src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Dart-logo.png"/>
