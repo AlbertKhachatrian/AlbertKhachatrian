@@ -1,5 +1,5 @@
 ### Hi, I’m Albert - @oAura 👋
-## Novice Android and Software Developer
+## Android Engineer
 - 😍 I like to code
 - 🌟 My favorite languages: Kotlin, Java.
 - 🧠 I am currently learning unity, data structures and algorithms
