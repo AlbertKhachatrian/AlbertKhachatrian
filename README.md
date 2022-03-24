@@ -1,9 +1,9 @@
-### Hi, I’m Albert - @oAura 👋
+### Hi, I’m Albert
 ## Android Engineer
 - 😍 I like to code
 - 🌟 My favorite languages: Kotlin, Java.
 - 🧠 I am currently learning unity, data structures and algorithms
-- 🤝 Ready to collaborate 
+- 🤝 Ready to cooperate
 
 ### Skills
 
