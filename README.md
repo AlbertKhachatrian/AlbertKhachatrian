@@ -1,10 +1,5 @@
 ### Hi, I’m Albert
 ## Android Engineer
-- 😍 I like to code
-- 🌟 My favorite languages: Kotlin, Java.
-- 🧠 I am currently learning unity, data structures and algorithms
-- 🤝 Ready to cooperate
-
 ### Skills
 
 <img align="left" width="30px" alt="Java" src="https://logoeps.com/wp-content/uploads/2011/06/java-logo-vector.png"/>
